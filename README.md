@@ -3,7 +3,6 @@
 </div>
 
 
-
 # 🙋 2024.4 - Módulo 04: Solução para IoT - Turma 11 - Abundance Brasil
 
 
